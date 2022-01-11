@@ -1,6 +1,15 @@
+<!--
+ * @Author: Xiang Pan
+ * @Date: 2022-01-10 19:48:23
+ * @LastEditTime: 2022-01-10 19:56:07
+ * @LastEditors: Xiang Pan
+ * @Description: 
+ * @FilePath: /xiangpan/content/authors/admin/_index.md
+ * @email: xiangpan@nyu.edu
+-->
 ---
 # Display name
-title: Nelson Bighetti
+title: Xiang Pan
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,11 +19,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: New York University
+  url: https://www.nyu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robust machine learning and natural language processing.
 
 # Interests to show in About widget
 interests:
