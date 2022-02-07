@@ -30,8 +30,8 @@ experience:
     date_start: '2021-05-01'
     date_end: ''
     description: |2-
-        * Proposed the Implemented Data Augmentation for subpopulation shift setting without labeled group information.
-        * Analysing the behaviour of Debiasing Methods.
+        * Proposed and Implemented Data Augmentation for subpopulation shift setting without labeled group information.
+        * Analyzing the behavior of Debiasing Methods.
         
   - title: Resarch Internship
     company: Multilingual Question Answering Team, IBM
