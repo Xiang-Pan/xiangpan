@@ -1,8 +1,8 @@
 ---
-# title: Example Talk
+title: NYU AI School Instructor and TA
 
 # event: Wowchemy Conference
-# event_url: https://example.org
+event_url: https://nyu-mll.github.io/nyu-ai-school-2021/
 
 # location: Wowchemy HQ
 # address:
@@ -22,7 +22,7 @@
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-10T00:00:00Z"
 
 authors: []
 tags: []

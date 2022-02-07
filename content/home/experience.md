@@ -33,14 +33,14 @@ experience:
         * Proposed the Implemented Data Augmentation for subpopulation shift setting without labeled group information.
         * Analysing the behaviour of Debiasing Methods.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Resarch Internship
+    company: Multilingual Question Answering Team, IBM
+    company_url: 'https://research.ibm.com/artificial-intelligence'
+    # company_logo: IBM
+    location: New York
+    date_start: '2021-03-01'
+    date_end: '2020-05-01'
+    description: Introduced auxiliary tasks to help Domain Adaptation of Question Answering system in Zero-Shot Learning setting.
 
 design:
   columns: '2'
