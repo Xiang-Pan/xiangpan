@@ -33,7 +33,7 @@ experience:
         * Proposed and Implemented Data Augmentation for subpopulation shift setting without labeled group information.
         * Analyzing the behavior of Debiasing Methods.
         
-  - title: Resarch Internship
+  - title: Research Internship
     company: Multilingual Question Answering Team, IBM
     company_url: 'https://research.ibm.com/artificial-intelligence'
     # company_logo: IBM
