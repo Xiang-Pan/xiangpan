@@ -39,7 +39,7 @@ experience:
     # company_logo: IBM
     location: New York
     date_start: '2021-03-01'
-    date_end: '2020-05-01'
+    date_end: '2021-05-01'
     description: Introduced auxiliary tasks to help Domain Adaptation of Question Answering system in Zero-Shot Learning setting.
 
 design:
