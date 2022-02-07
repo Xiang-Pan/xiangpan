@@ -2,7 +2,7 @@
 title: NYU AI School Instructor and TA
 
 # event: Wowchemy Conference
-event_url: https://nyu-mll.github.io/nyu-ai-school-2021/
+event_url: https://nyu-mll.github.io/nyu-ai-school-2022/
 
 # location: Wowchemy HQ
 # address:
@@ -22,7 +22,7 @@ event_url: https://nyu-mll.github.io/nyu-ai-school-2021/
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-01-10T00:00:00Z"
+publishDate: "2022-01-10T00:00:00Z"
 
 authors: []
 tags: []
