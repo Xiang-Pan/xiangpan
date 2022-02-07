@@ -72,7 +72,7 @@ email: "xiangpan@nyu.edu"
 highlight_name: true
 ---
 
-I am currently a student researcher working on Robust NLP, advised by Prof. [He He](https://hhexiy.github.io/). Previously, I worked as an Research Assistant advised by Prof. [LEE Wee Sun](https://www.comp.nus.edu.sg/~leews/) at the Department of Computer Science, National University of Singapore. Before that, I obtained my Bachelor degree in computer science at Huazhong University of Science and Technology and received research training under the guidance of Prof. [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index/585141/list/index.htm).
+I am currently a student researcher working on Robust NLP, advised by Prof. [He He](https://hhexiy.github.io/). Previously, I worked as a Research Assistant advised by Prof. [LEE Wee Sun](https://www.comp.nus.edu.sg/~leews/) at the Department of Computer Science, National University of Singapore. Before that, I obtained my Bachelor degree in computer science at Huazhong University of Science and Technology and received research training under the guidance of Prof. [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index/585141/list/index.htm).
 
 I am interested in understanding machine and human intelligence, especially in understanding and constructing robust models as well as better evaluation.
 
