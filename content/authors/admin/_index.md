@@ -28,8 +28,8 @@ education:
   #   institution: Stanford University
   #   year: 2012
   - course: MSCS
-    institution: NYU
-    year: 2022 (expected)
+    institution: New York University
+    year: 2023 Spring (expected)
   - course: Bachelor of Engineering in Computer Science
     institution: Huazhong University of Science and Technology
     year: 2020
@@ -42,15 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-  label: Follow me on Twitter
-  display:
-    header: true
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/GeorgeCushen
+#   label: Follow me on Twitter
+#   display:
+#     header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://github.com/Xiang-Pan
+  link: https://scholar.google.com/citations?user=SxU03foAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/Xiang-Pan
@@ -66,13 +66,15 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "xiangpan@nyu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a student researcher working on Robust NLP, advised by Prof. He He.
+I am currently a student researcher working on Robust NLP, advised by Prof. [He He](https://hhexiy.github.io/). Previously, I worked as an Research Assistant advised by Prof. [LEE Wee Sun](https://www.comp.nus.edu.sg/~leews/) at the Department of Computer Science, National University of Singapore. Before that, I obtained my Bachelor degree in computer science at Huazhong University of Science and Technology and received research training under the guidance of Prof. [Hong Huang](http://faculty.hust.edu.cn/honghuang/en/index/585141/list/index.htm).
+
+I am interested in understanding machine and human intelligence, especially in understanding and constructing robust models as well as better evaluation.
 
 <!-- Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 

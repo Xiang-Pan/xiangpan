@@ -1,6 +1,6 @@
 ---
 # Homepage SEO
-title:
+title: Xiang PAN
 summary:
 type: widget_page
 ---
