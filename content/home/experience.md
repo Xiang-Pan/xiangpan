@@ -1,12 +1,3 @@
-<!--
- * @Author: Xiang Pan
- * @Date: 2022-01-10 20:09:24
- * @LastEditTime: 2022-02-12 01:33:06
- * @LastEditors: Xiang Pan
- * @Description: 
- * @FilePath: /xiangpan/content/home/experience.md
- * @email: xiangpan@nyu.edu
--->
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
