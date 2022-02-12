@@ -1,3 +1,12 @@
+<!--
+ * @Author: Xiang Pan
+ * @Date: 2022-01-10 20:09:24
+ * @LastEditTime: 2022-02-12 01:33:06
+ * @LastEditors: Xiang Pan
+ * @Description: 
+ * @FilePath: /xiangpan/content/home/experience.md
+ * @email: xiangpan@nyu.edu
+-->
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -23,7 +32,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Student Resarcher
-    company: ML2 Labs
+    company: ML2 Lab
     company_url: 'https://wp.nyu.edu/ml2/'
     # company_logo: org-gc
     location: New York
