@@ -1,0 +1,12 @@
+content_back
+content_xiang
+# resume
+resume/
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+public/
+jsconfig.json
+node_modules/

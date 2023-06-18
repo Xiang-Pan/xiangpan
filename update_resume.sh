@@ -1,0 +1,1 @@
+cp -r ./resume/build/xiangpan_resume.pdf ./static/uploads/resume.pdf
