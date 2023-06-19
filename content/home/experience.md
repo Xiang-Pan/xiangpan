@@ -24,10 +24,10 @@ date_format: Jan 2006
 experience:
   - title: PHD Student
     company: NYU
-    company_url: 'https://wp.nyu.edu/ml2/'
+    # company_url: 'https://wp.nyu.edu/ml2/'
     # company_logo: nyu-logo-notext
     location: New York
-    date_start: '2021-09-01'
+    date_start: '2023-09-05'
     date_end: ''
     description: |2-
         * Theoretical Analysis of Statistical Learning Theory.
