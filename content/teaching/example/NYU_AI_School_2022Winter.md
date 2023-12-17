@@ -1,8 +1,8 @@
 ---
-title: Basic Algorithm, 2022 Summer, NYU
+title: AI School Instructor and TA, 2022 Winter, NYU
 
 # event: Wowchemy Conference
-event_url: http://cs.nyu.edu/courses/summer22/CSCI-UA.0310-001/
+event_url: https://nyu-mll.github.io/nyu-ai-school-2022/
 
 # location: Wowchemy HQ
 # address:
@@ -22,7 +22,7 @@ event_url: http://cs.nyu.edu/courses/summer22/CSCI-UA.0310-001/
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-05-01T00:00:00Z"
+publishDate: "2022-01-10T00:00:00Z"
 
 authors: []
 tags: []

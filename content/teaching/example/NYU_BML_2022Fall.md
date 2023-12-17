@@ -1,8 +1,8 @@
 ---
-title: Basic Algorithm, 2022 Summer, NYU
+title: Bayesian Machine Learning, 2022 Fall, NYU
 
 # event: Wowchemy Conference
-event_url: http://cs.nyu.edu/courses/summer22/CSCI-UA.0310-001/
+event_url: https://cims.nyu.edu/~andrewgw/bml_project.html
 
 # location: Wowchemy HQ
 # address:
@@ -22,7 +22,7 @@ event_url: http://cs.nyu.edu/courses/summer22/CSCI-UA.0310-001/
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2022-05-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 
 authors: []
 tags: []
