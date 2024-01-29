@@ -1,5 +1,5 @@
 ---
-title: DS-GA.1011 Natural Language Processing with Representation Learning, Fall 2023, NYU
+title: DS-GA.1011, Natural Language Processing with Representation Learning, Fall 2023, NYU
 
 # event: Wowchemy Conference
 event_url: https://nyu-cs2590.github.io/fall2023/
