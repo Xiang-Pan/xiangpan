@@ -4,7 +4,6 @@ title: 'Task Transfer and Domain Adaptation for Zero-Shot Question Answering'
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
-# Pan, Xiang and Sheng, Alex and Shimshoni, David and Singhal, Aditya and Rosenthal, Sara and Sil, Avirup
 authors:
   - Xiang Pan
   - Alex Sheng
